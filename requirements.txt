@@ -21,7 +21,7 @@ lxml==4.2.1               # via newspaper3k
 markupsafe==1.0           # via jinja2
 newspaper3k==0.2.6
 nltk==3.3.0               # via newspaper3k
-pillow==5.1.0             # via newspaper3k
+pillow==6.2.0             # via newspaper3k
 python-dateutil==2.7.3    # via newspaper3k
 pyyaml==3.12              # via newspaper3k
 requests-file==1.4.3      # via tldextract
